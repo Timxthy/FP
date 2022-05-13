@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRTJ7yH6ZwMG4E7HVtGhRtRLVwimpNAyd1BEPzY+0eFO4VLSbXMO55TwfVoAXwlc05bZ7CGgLSXoprPj0E4Yow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timia\\Documents\\F#\\BankSys\\BankSys.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timia\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
