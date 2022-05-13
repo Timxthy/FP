@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NghNzn3QcbyM3xe8Gu/RMTyDn9Tdjl1yzKosl2FxoDk+eOtikP2/TRbMYaFU9knIeaf+6A1/p2PQ+q/oK9b3VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timia\\Documents\\F#\\Seats\\Seats.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timia\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
